@@ -1,6 +1,7 @@
 # leetcode
 Selective problems from leetcode
 
+Make something similar to this: https://github.com/kamyu104/LeetCode-Solutions
 
 Reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
