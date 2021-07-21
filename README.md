@@ -1,6 +1,10 @@
 # leetcode
 Selective problems from leetcode
 
+
+Reference: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
+
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
